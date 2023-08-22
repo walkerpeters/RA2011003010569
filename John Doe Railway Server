@@ -1,0 +1,12 @@
+{
+    "companyName": "Train Smith",
+    "clientID": "24186f16-2fe1-4924-a82d-17bb631081c1",
+    "clientSecret": "kEjJGmqjmiQYjeSY",
+    "ownerName": "Sayantan ",
+    "ownerEmail": "sg1956@srmist.edu.in",
+    "rollNo": "RA2011003010569"
+}
+"token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTI3MTI5MDQsImNvbXBhbnlOYW1lIjoiVHJhaW4gU21pdGgiLCJjbGllbnRJRCI6IjI0MTg2ZjE2LTJmZTEtNDkyNC1hODJkLTE3YmI2MzEwODFjMSIsIm93bmVyTmFtZSI6IiIsIm93bmVyRW1haWwiOiIiLCJyb2xsTm8iOiJSQTIwMTEwMDMwMTA1NjkifQ.PPsuLV4Qxjoziwmx-GVBsTAvBkFfpArTuyyTrFWKwts",
+    "expires_in": 1692712904
+{"message":"An authorization header is required"}
